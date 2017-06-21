@@ -78,8 +78,8 @@ text-align: center;
       </div>
     </nav>
 	<ul class="nav navbar-nav navbar-right">
-      <li><a href="<c:url value="/signUp"/>"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-      <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      <li><a href="<c:url value="/signUp"/>"><span class="glyphicon glyphicon-user"></span> Sign Up/Log in</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-log-in"></span>Log in </a></li>
     </ul>
       
 	

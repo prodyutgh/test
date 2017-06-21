@@ -38,4 +38,7 @@ public class homeController
     public String phto(){
         return "phto";
     }
-}
+@RequestMapping("/signUp")
+public String signUp(){
+    return "signUp";
+}}
